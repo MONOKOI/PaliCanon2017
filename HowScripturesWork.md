@@ -8,10 +8,7 @@
 
 1. _Tallest Growing Deepest Rooted Forest Trees_. 
 
-
-1. _Oases In Deserts_. 
-
-1. _Inns & Guides Along Dangerous Highways_. 
+1. _Caravans Between Desert Oases_. 
 
 1. _Error Correcting Combs_. Combs pick nits and tangles our of hair.
 
